@@ -8,3 +8,8 @@ Repo provides examples about various design patterns. Below are some of the patt
 - Factory Method
 - Abstract Factory
 - Builder
+
+## Structural Design Pattern 
+
+- Adapter
+- Bridge
