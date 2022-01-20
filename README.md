@@ -4,3 +4,7 @@ Repo provides examples about various design patterns. Below are some of the patt
 
 ## Creation Design Pattern 
 
+- Singleton
+- Factory Method
+- Abstract Factory
+- Builder
