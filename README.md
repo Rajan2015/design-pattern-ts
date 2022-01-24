@@ -13,3 +13,4 @@ Repo provides examples about various design patterns. Below are some of the patt
 
 - Adapter
 - Bridge
+- Decorator
